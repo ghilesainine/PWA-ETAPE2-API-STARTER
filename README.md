@@ -4,7 +4,7 @@ API REST pour la gestion d'ouvrages, utilisateurs, paniers et commandes avec aut
 
 ## Équipe
 - Ainine Ghiles
-- Baamed Abderezak
+- Baahmed Abderezak
 
 ## Prérequis
 - Node.js 20+
