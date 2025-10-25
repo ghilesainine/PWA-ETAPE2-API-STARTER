@@ -3,11 +3,8 @@
 API REST pour la gestion d'ouvrages, utilisateurs, paniers et commandes avec authentification JWT et rôles.
 
 ## Équipe
-- Reda Ait Taieb
-- Ramadane Gounoutch
-- Assoki Cédric
-- Edmond Christian Kapenga Katambwe
-- Wissam Damene
+- Ainine Ghiles
+- Baamed Abderezak
 
 ## Prérequis
 - Node.js 20+
